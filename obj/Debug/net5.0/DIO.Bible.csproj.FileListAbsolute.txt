@@ -1,0 +1,16 @@
+C:\projetos\csharp\dio\DIO.Bible\bin\Debug\net5.0\DIO.Bible.exe
+C:\projetos\csharp\dio\DIO.Bible\bin\Debug\net5.0\DIO.Bible.deps.json
+C:\projetos\csharp\dio\DIO.Bible\bin\Debug\net5.0\DIO.Bible.runtimeconfig.json
+C:\projetos\csharp\dio\DIO.Bible\bin\Debug\net5.0\DIO.Bible.runtimeconfig.dev.json
+C:\projetos\csharp\dio\DIO.Bible\bin\Debug\net5.0\DIO.Bible.dll
+C:\projetos\csharp\dio\DIO.Bible\bin\Debug\net5.0\DIO.Bible.pdb
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\DIO.Bible.csproj.AssemblyReference.cache
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\DIO.Bible.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\DIO.Bible.AssemblyInfoInputs.cache
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\DIO.Bible.AssemblyInfo.cs
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\DIO.Bible.csproj.CoreCompileInputs.cache
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\DIO.Bible.dll
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\refint\DIO.Bible.dll
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\DIO.Bible.pdb
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\DIO.Bible.genruntimeconfig.cache
+C:\projetos\csharp\dio\DIO.Bible\obj\Debug\net5.0\ref\DIO.Bible.dll
